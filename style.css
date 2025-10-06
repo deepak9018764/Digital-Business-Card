@@ -1,5 +1,5 @@
 h1{
-   color: rgb(71, 5, 193);
+   color: rgb(17, 10, 36);
 }
  h3
 {
@@ -7,3 +7,7 @@ h1{
    color: black;
 }
    
+body {
+
+   background-color: antiquewhite;
+}
